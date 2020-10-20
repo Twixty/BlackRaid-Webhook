@@ -1,4 +1,4 @@
-const discord = require("discord.js-self");
+const discord = require("discord.js");
 const colors = require("colors");
 const config = require("./config.json");
 
