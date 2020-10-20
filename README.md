@@ -6,7 +6,7 @@ Created by me
 🔰 Before start:
 1 - cmd: `npm i`  
 1 - config the `config.json`  
->-**token**: your token  
+>-**token**: your bot token  
 -**serv**: the id of the server  
 -**name**: the name of webhooks  
 -**avatar**: url of the avatar  
