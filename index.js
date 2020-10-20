@@ -28,16 +28,3 @@ client.on("ready", async () => {
     }
     })
 })
-
-
-/*
-        channel.createWebhook(config.webhook.name, {
-            avatar: config.webhook.avatar,
-        }).then(webhook => {
-            counter = 0;
-            while (counter < config.ChannellMsgCount) {
-                webhook.send(config.webhook.spamMsg)
-                counter++;
-              }
-        })
-*/ 
