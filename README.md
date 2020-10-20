@@ -14,3 +14,6 @@ Created by me
 -**ChannelMsgCount**: the number of messages per channels  
 
 3 - You can now start and have fun `node index.js `
+
+
+#### If you have a problem, check issues.
