@@ -1,4 +1,4 @@
-const discord = require("discord.js-selfbotbypass");
+const discord = require("discord.js-self");
 const colors = require("colors");
 const config = require("./config.json");
 
